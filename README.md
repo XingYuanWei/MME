@@ -25,10 +25,17 @@ embedding test set of the enhanced model：
 
 # How to read: 
 train_data = np.load('./data/Evolve_2017_data.npz')
+
 train_x = train_data['x']
+
 train_y = train_data['y']
+
 train_y_family = train_data['y_family']
 
+
 train_data = np.load('./data/2017_data.npz')
+
 train_x = train_data['x']
+
 train_y = train_data['y']
+
