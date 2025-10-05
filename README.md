@@ -5,6 +5,10 @@ Dataset URL: https://pan.baidu.com/s/1x9IzfgujqSx4vywWjwBsOQ?pwd=1111  Extract C
 
 contact email:talentedyuan@gmail.com
 
+# MME Knowledge Graph For Windows API
+MME Knowledge Graph
+URL: https://pan.baidu.com/s/1JssXJPvoUmqZhiuRlthcOQ?pwd=2222 Extract Code:2222
+
 # About the Dataset
 Training Dataset：
 - 2017_data.npz: Training set of embeddings for the original model
