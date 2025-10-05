@@ -3,7 +3,7 @@ MME: Mitigating the Impact of Malware Evolution on API Sequence-based Windows Ma
 
 Dataset URL: https://pan.baidu.com/s/1x9IzfgujqSx4vywWjwBsOQ?pwd=1111  Extract Code：1111
 
-contact email:talentedyuan@gmail.com
+contact email:talentedyuan@gmail.com; weixinguan@iie.ac.cn
 
 # MME Knowledge Graph For Windows API
 MME Knowledge Graph
