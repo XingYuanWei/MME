@@ -43,3 +43,16 @@ train_x = train_data['x']
 
 train_y = train_data['y']
 
+
+Cite:
+@ARTICLE{11269877,
+  author={Wei, Xingyuan and Li, Ce and Lv, Qiujian and Li, Ning and Sun, Degang and Wang, Yan},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Mitigating the Impact of Malware Evolution on API Sequence-Based Windows Malware Detectors}, 
+  year={2026},
+  volume={21},
+  number={},
+  pages={45-60},
+  keywords={Malware;Semantics;Knowledge graphs;Vectors;Long short term memory;Feature extraction;Contrastive learning;Computational modeling;Aging;Detectors;API sequence-based malware detection;malware evolution;API knowledge graph;contrastive learning;deep learning},
+  doi={10.1109/TIFS.2025.3637727}}
+
